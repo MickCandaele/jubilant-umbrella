@@ -1,2 +1,2 @@
 # jubilant-umbrella
-Maybe an app?
+Text based adventure game.
